@@ -155,10 +155,10 @@ AUTH_USER_MODEL = 'perfiles.Perfil'
 
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'info@ecoempresarial.com'
-SERVER_EMAIL = "info@ecoempresarial.com"
-DEFAULT_FROM_EMAIL = "info@ecoempresarial.com"
-EMAIL_HOST_PASSWORD = 'alpinito'
+EMAIL_HOST_USER = 'tas@email.com'
+SERVER_EMAIL = "tas@email.com"
+DEFAULT_FROM_EMAIL = "tas@email.com"
+EMAIL_HOST_PASSWORD = '$tas@gssdaf.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
